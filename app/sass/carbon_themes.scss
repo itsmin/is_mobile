@@ -1,0 +1,12 @@
+@import
+  "reset.scss",
+  "visual_elements.scss",
+  "carbon_mantle_components.scss",
+  "mantle_list-view.scss",
+  "typeahead_styles.scss",
+  "themes/carbon.scss"
+;
+
+// desktop ----------------------------------------
+
+@include desktop_theme;

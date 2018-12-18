@@ -1,0 +1,77 @@
+@import
+  "reset.scss",
+  "visual_elements.scss",
+  "carbon_mantle_components.scss",
+  "themes/carbon.scss"
+;
+
+.notification_pop_dismiss {
+  opacity: 0 !important;
+  z-index: -10;
+}
+.notification_pop_open {
+  top: 70px !important;
+}
+.notification_pop {
+  position: absolute;
+  top: -100%;
+  transition: all 0.8s ease-out;
+}
+
+// CONTENT SPECFIC CLASSES
+#content {
+  .sample_data_table {
+    margin: 30px;
+    width: calc(100% - 60px);
+
+    .data_table_open {
+      top: 0 !important;
+      transition: all 0.4s ease-out !important;
+      .list {
+        margin: 0 !important;
+        .list_hd {
+          display: block !important;
+        }
+        .list_body {
+          height: calc(100% - 55px) !important;
+          .list_row {
+            // Controls BUILD ANIMATION
+            display: block !important;
+          }
+        }
+      }
+    }
+    .data_table {
+      float: left;
+      clear: left;
+      margin: 0 0 30px 0;
+      margin-left: 30px;
+      width: calc(100% - calc(30px * 2));
+      height: 100%;
+      .widget_hd {
+        h2 {
+          float: left;
+          margin-right: 0;
+          margin-left: 0;
+          width: calc(100% - 40px);
+        }
+      }
+      .list {
+        .list_body {
+          height: 460px !important;
+          .list_content {
+            height: 25vh;  //  controls content sizing of table within viewport
+          }
+        }
+        .list_hd_cell,
+        .list_row_cell {
+          ul {
+            li {
+
+            }
+          }
+        }
+      }
+    }
+  }
+}

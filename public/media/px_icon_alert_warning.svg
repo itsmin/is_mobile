@@ -1,0 +1,22 @@
+
+<svg width="38px" height="38px" viewBox="0 0 38 38" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <rect id="path-1" x="4.97056275" y="4.97056275" width="24" height="24"></rect>
+    </defs>
+    <g id="🛠Symbols-Alerts" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="⚠️Alert-Copy-2" transform="translate(-0.712891, -1.000000)">
+            <g id="Alert-Message/Status-Color/orange3" transform="translate(3.000000, 3.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Rectangle-2" transform="translate(16.970563, 16.970563) rotate(-45.000000) translate(-16.970563, -16.970563) ">
+                    <use fill="#FF8B3A" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    <rect stroke="#FFFFFF" stroke-width="1" x="4.47056275" y="4.47056275" width="25" height="25"></rect>
+                </g>
+            </g>
+            <text id="2" font-family="GEInspiraSans, GE Inspira Sans" font-size="12" font-weight="normal" fill="#FFFFFF">
+                <tspan x="16.7231178" y="24">2</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

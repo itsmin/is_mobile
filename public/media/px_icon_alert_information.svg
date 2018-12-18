@@ -1,0 +1,27 @@
+
+<svg width="33px" height="31px" viewBox="0 0 33 31" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <polygon id="path-1" points="15 0 0 10.696 5.729 28 24.27 28 29.999 10.696"></polygon>
+    </defs>
+    <g id="🛠Symbols-Alerts" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="/Alert-Label-4" transform="translate(-3.712891, -3.000000)">
+            <g id="Alert-Message/Status-Color/blue3" stroke-width="1" fill-rule="evenodd" transform="translate(5.000000, 4.888889)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Page-1-Copy-2">
+                    <use fill="#1563BD" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    <path stroke="#FFFFFF" stroke-width="1" d="M15.0000097,-0.614104627 L30.589577,10.5030373 L24.6311512,28.5 L5.36784876,28.5 L-0.590580818,10.5030258 L15.0000097,-0.614104627 Z"></path>
+                </g>
+                <g id="Alert-Label/Status-Color/blue3" mask="url(#mask-2)" fill="#1563BD">
+                    <g transform="translate(-15.922098, -13.819630)" id="Rectangle-2-Copy-50">
+                        <rect x="0" y="0" width="60" height="60"></rect>
+                    </g>
+                </g>
+            </g>
+            <text id="4" font-family="GEInspiraSans, GE Inspira Sans" font-size="12" font-weight="normal" fill="#FFFFFF">
+                <tspan x="16.2125632" y="24">4</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,30 @@
+
+<svg width="12px" height="21px" viewBox="0 0 12 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <path d="M24.05,11 L5.75,11 L10.35,6.6 L9.65,6 L4.15,11.2 C3.95,11.4 3.95,11.7 4.15,11.9 L9.65,17 L10.35,16.3 L5.75,12 L24.05,12 L24.05,11 Z" id="path-1"></path>
+    </defs>
+    <g id="RT---APM-P" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="dashboard:-APM-P" transform="translate(-581.000000, -985.000000)">
+            <g id="wells-in-this-group" transform="translate(60.000000, 752.000000)">
+                <g id="data-table" transform="translate(30.000000, 82.000000)">
+                    <g id="table-content" transform="translate(10.000000, 59.000000)">
+                        <g id="trending-arrows" transform="translate(473.000000, 10.000000)">
+                            <g id="Icons/22/px-nav:down" transform="translate(0.000000, 81.000000)">
+                                <g id="px-nav:back">
+                                    <rect id="Rectangle" x="0" y="0" width="28" height="24"></rect>
+                                    <mask id="mask-2" fill="white">
+                                        <use xlink:href="#path-1"></use>
+                                    </mask>
+                                    <use id="Mask" fill="#4C6472" fill-rule="nonzero" transform="translate(14.025000, 11.500000) rotate(-90.000000) translate(-14.025000, -11.500000) " xlink:href="#path-1"></use>
+                                    <g id="/Status-Color-red3" mask="url(#mask-2)" fill="#F34336">
+                                        <rect id="Rectangle-2-Copy-40" x="0" y="0" width="28" height="24"></rect>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

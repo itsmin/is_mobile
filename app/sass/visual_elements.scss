@@ -1,0 +1,116 @@
+// PREDIX ----------------------------------------
+@import
+  "themes/predix.scss"
+;
+
+
+// MANTLE ----------------------------------------
+
+// Darks
+$ui_dark_1             :rgb(13,26,33);
+$ui_dark_2             :rgb(1,41,57);
+$ui_dark_3             :rgb(54,76,89);
+
+// Lights
+$ui_light_1             :rgb(182,195,204);
+$ui_light_2             :rgb(226,232,237);
+$ui_light_3             :rgb(255,255,255);
+
+// Blues
+$ui_blue_1             :rgb(0,204,255);
+$ui_blue_2             :rgb(139,214,255);
+$ui_blue_3             :rgb(9,129,156);
+$ui_blue_4             :rgb(6,87,105);
+
+// Greens
+$ui_green_1            :rgb(69,255,104);
+$ui_green_2            :rgb(117,190,5);
+
+// Yellows
+$ui_yellow_1           :rgb(255,207,69);
+$ui_yellow_2           :rgb(255,121,0);
+
+// Reds
+$ui_red_1              :rgb(255,69,69);
+$ui_red_2              :rgb(204,0,0);
+
+// Typography
+// $type: helvetica,sans-serif;
+// @mixin type_block {
+//   font-family: $type;
+//   font-weight: 400;
+//   // keep people from messing with antialiasing!
+//   -webkit-font-smoothing: subpixel-rendering !important;
+// }
+
+// Typography
+@font-face {
+  font-family: "GEInspiraSans";
+  src: local("GEInspiraSans"), local("GEInspiraSans-Regular"), url(../media/GEInpiraSans/GEInspiraSans.woff) format("woff");
+}
+
+$px_type: "GEInspiraSans", sans-serif;
+@mixin type_block {
+  font-family: $px_type;
+  font-weight: 400;
+  -webkit-font-smoothing: subpixel-rendering !important;
+}
+
+// Text Sizes
+$txt_1                  :12px;
+$txt_2                  :15px;
+$txt_3                  :20px;
+$txt_4                  :30px;
+$txt_5                  :45px;
+$txt_6                  :60px;
+$txt_7                  :75px;
+
+
+
+// CARBON ----------------------------------------
+
+// Darks
+$c6_dark_1             :rgb(13,26,33);
+$c6_dark_2             :rgb(1,41,57);
+$c6_dark_3             :rgb(54,76,89);
+
+// Lights
+$c6_light_1             :rgb(182,195,204);
+$c6_light_2             :rgb(226,232,237);
+$c6_light_3             :rgb(255,255,255);
+
+// Blues
+$c6_blue_1             :rgb(15,230,253);
+$c6_blue_2             :rgb(139,214,255);
+$c6_blue_3             :rgb(9,129,156);
+$c6_blue_4             :rgb(11,107,205);
+
+// Greens
+$c6_green_1            :rgb(125,253,15);
+$c6_green_2            :rgb(117,190,5);
+
+// Yellows
+$c6_yellow_1           :rgb(253,250,15);
+$c6_yellow_2           :rgb(255,121,0);
+
+// Reds
+$c6_red_1              :rgb(255,69,69);
+$c6_red_2              :rgb(204,0,0);
+
+// Typography
+$c6_type: 'Lato', helvetica,sans-serif;
+@mixin c6_type_block {
+  font-family: $c6_type;
+  font-weight: 400;
+  // keep people from messing with antialiasing!
+  -webkit-font-smoothing: subpixel-rendering !important;
+}
+
+// Text Sizes
+$c6_txt_1                  :12px;
+$c6_txt_2                  :15px;
+$c6_txt_3                  :20px;
+$c6_txt_4                  :30px;
+$c6_txt_5                  :45px;
+$c6_txt_6                  :60px;
+$c6_txt_7                  :75px;

@@ -1,0 +1,12 @@
+@import
+  "reset.scss",
+  "visual_elements.scss",
+  "mantle_components.scss",
+  "mantle_list-view.scss",
+  "typeahead_styles.scss",
+  "themes/predix.scss"
+;
+
+// PREDIX ----------------------------------------
+
+@include predix_theme;

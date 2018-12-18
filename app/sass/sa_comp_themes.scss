@@ -1,0 +1,12 @@
+@import
+  "reset.scss",
+  "visual_elements.scss",
+  "sa_comp_mantle_components.scss",
+  "mantle_list-view.scss",
+  "typeahead_styles.scss",
+  "themes/sa_comp.scss"
+;
+
+// desktop ----------------------------------------
+
+@include desktop_theme;
